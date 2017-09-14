@@ -1,0 +1,137 @@
+/*
+* @Author: lenovo
+* @Date:   2017-09-10 19:40:18
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-09-10 19:47:03
+*/
+@font-face {
+  font-family: 'iconfont';  /* project id 408608 */
+  src: url('http://at.alicdn.com/t/font_408608_l4a4cniic606n7b9.eot');
+  src: url('http://at.alicdn.com/t/font_408608_l4a4cniic606n7b9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_408608_l4a4cniic606n7b9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_408608_l4a4cniic606n7b9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_408608_l4a4cniic606n7b9.svg#iconfont') format('svg');
+}
+
+.iconfont{
+    font-family:"iconfont" !important;
+    /* font-size:16px; */
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+header{
+	width: 3.75rem;
+	height: .46rem;
+	border-bottom: .01rem solid #e5e5e5;
+	background-color: #fff;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 9;
+}
+.tBox{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+span{
+	font-size: .16rem;
+	text-align: center;
+	display: block;
+	margin-top: .12rem;
+	border-right: .01rem solid #e5e5e5;
+}
+.hengT{
+	width: .25rem;
+	height: .02rem;
+	background-color: #000;
+	margin-top: .1rem;
+	margin-left: .33rem;
+}
+p{
+	width: 3.45rem;
+	height: 1.77rem;
+	margin-top: .5rem;
+	margin-left: .14rem;
+	font-size: .16rem;
+	padding-top: .1rem;
+
+}
+h2{
+	font-size: .18rem;
+	color: #000;
+	margin-top: .12rem;
+	margin-left:.14rem;
+	font-weight: normal;
+}
+h3{
+	font-size: .16rem;
+	color: #666;
+	margin-top: .05rem;
+	margin-left:.14rem;
+	font-weight: normal;
+}
+img{
+	margin-bottom:-.26rem;
+}
+footer{
+	width: 100%;
+	height: .58rem;
+	background-color: #fff;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.lbox{
+	width: 1.87rem;
+	height: 100%;
+	float: left;
+}
+.lbox1{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.lbox2{
+	width: .23rem;
+	height: .25rem;
+	margin-top: .1rem;
+    margin-left: .19rem;
+}
+.lbox2 img{
+	display: block;
+}
+
+.lbox1 h6{
+	font-size: .12rem;
+	color: #999;
+	text-align: center;
+	margin-top: .03rem;
+}
+.rbox{
+	width: 1.88rem;
+	height: 100%;
+	float: left;
+
+}
+.rbox1{
+	width: 50%;
+	height: 100%;
+	background-color: #ffe817;
+	float: left;
+	font-size: .16rem;
+	color: #000;
+    padding-top: .17rem;
+    text-align: center;
+}
+.box2{
+    background-color: #ff6699;
+    color: #fff;
+}
+.lbox2 i{
+	display: block;
+	font-size: .22rem;
+	color: #999;
+}

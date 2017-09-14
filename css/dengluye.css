@@ -1,0 +1,151 @@
+/*
+* @Author: lenovo
+* @Date:   2017-09-08 16:16:50
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-14 08:37:58
+*/
+
+header{
+	width: 100%;
+	height: .47rem;
+	background-color: #ffffff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	border-bottom: .01rem #999 solid;
+}
+.zuo{
+	width: .47rem;
+	height: .45rem;
+	background: #fff url('../img/21.png');
+	background-size: .1rem .15rem;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-left: .25rem;
+	float: left;
+	
+}
+header h1{
+	font-size: .20rem;
+	font-weight: lighter;
+	line-height: .47rem;
+	text-align: center;
+	color: #666;
+	float: left;
+	margin-left: 0.6rem;
+}
+header h2{
+	font-size: .20rem;
+	font-weight: lighter;
+	line-height: .47rem;
+	text-align: center;
+	color: #666;
+	float: right;
+	margin-right: .15rem;
+}
+section{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .47rem;
+	bottom: .5rem;
+	margin: auto;
+	background-color: #fff;
+
+}
+.tubiao{
+	width: 100%;
+	height: 1.45rem;
+	background-color: #fff;
+	padding-top: .35rem;
+}
+.tubiao-img{
+	width: 1.05rem;
+	height: 1.05rem;
+	background-color: #fff;
+	border-radius: 50%;
+	margin-left: 1.35rem;
+}
+img{
+	border-radius: 50%;
+}
+.wz-1{
+	width: 100%;
+	height: .51rem;
+	background-color: #fff;
+	padding: .3rem .15rem 0rem .15rem;
+}
+.wz-1 h1{
+	font-size: .18rem;
+	font-weight: lighter;
+	color: #999;
+	text-align: center;
+	line-height: .24rem;
+
+}
+/* .dlxinxi{
+	width: 100%;
+	height: 1rem;
+	background-color: blue;
+	padding: .1rem .15rem;
+} */
+input{
+	width: 3.45rem;
+	height: .45rem;
+	background-color: #f2f2f2;
+	margin: .25rem .15rem .1rem .15rem;
+	border: 0;
+	box-sizing: content-box;
+	position: relative;
+	top: -0.6rem;
+}
+
+.mima{
+	width: 3.45rem;
+	height: .45rem;
+	background-color: #f2f2f2;
+	margin: 0rem .15rem .1rem .15rem;
+	border: 0;
+	box-sizing: content-box;
+	position: relative;
+	top: -1.4rem;
+}
+.anniu{
+	width: 3.45rem;
+	height: .45rem;
+	background-color: #ff0036;
+	margin: 0rem .15rem .1rem .15rem;
+	border: 0;
+	box-sizing: content-box;
+	position: relative;
+	top: -1.4rem;
+}
+.anniu h1{
+	font-weight: lighter;
+	font-size: .24rem;
+	color: #fff;
+	text-align: center;
+	line-height: .45rem;
+	/* margin-top: 2.2rem; */
+}
+.wz-2 a{
+	font-size: .12rem;
+	font-weight: lighter;
+	color: #494949;
+	float: right;
+	margin-right: .15rem;
+	position: relative;
+	top: -1.4rem;
+}
+/* .text1 input{
+	margin-top: 0
+} */
+/* footer{
+	width: 100%;
+	height: .5rem;
+	background-color: yellowgreen;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+
+} */

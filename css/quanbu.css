@@ -1,0 +1,145 @@
+/*
+* @Author: lenovo
+* @Date:   2017-09-10 19:31:31
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-14 11:22:47
+*/
+header{
+	width: 100%;
+	height: .41rem;
+	position: fixed;
+	left: 0;
+	top: 0;
+    margin-bottom: 10px;
+	z-index: 9;
+	border-bottom: .01rem #999 solid;
+	background-color: #fff;
+}
+span{
+	display:block;
+	width: .5rem;
+	height: 100%;
+	float: left;
+	padding-top: .08rem;
+	margin:.1rem .125rem;
+}
+span h2:hover{
+	color: #000;
+	
+}
+span:hover{
+	border-bottom: .02rem solid #000;
+}
+span h2{
+	font-size: .16rem;
+	color: #666;
+	text-align: center;
+}
+section{
+	width: 100%;
+	height: 10rem;
+	position: absolute;
+	top: .41rem;
+	left: 0;
+	
+	background-color: #eff4fa; 
+}
+.sbox{
+	width: 100%;
+	height: 1.91rem;
+	background-color: #fff;
+	display: block;
+	margin-top: .1rem;
+	padding-top: .1rem;
+	padding-left: .1rem;
+
+}
+.sbox1{
+	width: 100%;
+	height: 1.12rem;
+	background-color: #fff;
+	padding-top:.11rem;
+	float: left;
+}
+.img-box{
+	width: .59rem;
+	height: .87rem;
+	/* background-color: green; */
+	float: left;
+	overflow: hidden;
+}
+.imgbox img{
+	float: left;
+}
+.wenzi{
+	width: 2.0rem;
+	height: .87rem;
+	/* background-color: red; */
+	float: left;
+}
+.wenzi h3{
+	font-size: .16rem;
+	color: #000;
+	float: left;
+	margin-left: .2rem;
+	/* font-weight: normal; */
+	margin-top: .15rem;
+
+}
+.jiage{
+	width: 1.0rem;
+	height: .87rem;
+	/* background-color: yellowgreen; */
+	float: left;
+}
+.jiage h4{
+	font-size: .16rem;
+	font-weight: lighter;
+	text-align: center;
+	line-height: .2rem;
+	color: #000;
+	margin-top: .15rem;
+
+}
+.jiage h5{
+	font-size: .14rem;
+	font-weight: lighter;
+	text-align: center;
+	line-height: .2rem;
+	color: #999;
+}
+.sbox2{
+	width: 2rem;
+	height: .2rem;
+	/* background-color: yellowgreen; */
+	padding-top:.11rem;
+	float: right;
+
+}
+.sbox2 h6{
+	font-size: .14rem;
+	font-weight: lighter;
+	text-align: center;
+	line-height: .07rem;
+	color: #000;
+	
+}
+.pingjia{
+	width: 1rem;
+	height: .2rem;
+	/* background-color: yellowgreen; */
+	padding-top:.11rem;
+	float: left;
+	margin-left: 2.5rem;
+	margin-top: 0.2rem;
+
+}
+.pingjia h7{
+	font-size: .14rem;
+	font-weight: lighter;
+	text-align: center;
+	line-height: .05rem;
+	color: red;
+	float: right;
+	
+}
